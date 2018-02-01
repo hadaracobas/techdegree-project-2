@@ -127,7 +127,7 @@ margin-right: 1em;
 header {
   background: linear-gradient(#fff, transparent 90%),
                 linear-gradient(25deg, #fff, transparent),
-                orange url("img/background1.jpeg") no-repeat center / cover;
+                orange url("../img/background1.jpeg") no-repeat center / cover;
   }
 
   .nav li {
